@@ -1,0 +1,24 @@
+//Aim: write a program on how to calculate a simple intrest 
+//File name:si.c
+//code
+//to calc si
+#include<stdio.h>
+
+int main()
+{
+    float principle,time,rate,si;
+    printf("enter a principal amount");
+    scanf("%f",&principle);
+    printf("enter a time in year ");
+    scanf("%f",&time);
+    printf("enter a rate%");
+    scanf("%f",&rate);
+    si=principle*time*rate;//to store data
+    printf("\nthe amount of si is =%.2f",si/100);
+    float total,b;
+    b=si/100;
+    total=principle+b;
+    printf("\nthe total amount is =%.2f",total);
+
+    return 0;
+}
