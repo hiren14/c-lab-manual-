@@ -20,7 +20,7 @@ int main()
         printf("ENTER THE BRANCH ");
         scanf("%s",&p[i].branch);
         printf("ENTER THE TOTAL_MARKS ");
-        scanf("%s",&p[i].total);
+        scanf("%d",&p[i].total);
     }
 //printing
 
@@ -28,7 +28,7 @@ int main()
     {
         printf("STUDENTS DETAILS %d",i+1);
         printf("\n NAME %s",p[i].name);
-        printf("\n BRANCH %d ",p[i].branch);
+        printf("\n BRANCH %s ",p[i].branch);
         printf("\n total %d",p[i].total);
     }
 
