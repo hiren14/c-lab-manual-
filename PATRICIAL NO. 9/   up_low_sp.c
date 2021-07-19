@@ -1,5 +1,7 @@
 /*PRACTICAL NO.9
-AIM : Write a C program to check whether the entered character is capital, small letter, digit or any special character.
+AIM : Write a C program to check whether 
+the entered character is capital, small letter, 
+digit or any special character.
 //file name --- uo_low_sp.c*/
 #include<stdio.h>
 int main()
