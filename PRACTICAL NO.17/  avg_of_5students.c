@@ -2,7 +2,9 @@
 
 /*Practical 17
 
-Write a program to calculate average and total of 5 students for 3 subjects (use nested for 18. loops)
+Write a program to calculate average and total
+of 5 students for 3 subjects 
+(use nested for 18. loops)
 //file name: avg of 5students.c*/
 #include<stdio.h>
 
