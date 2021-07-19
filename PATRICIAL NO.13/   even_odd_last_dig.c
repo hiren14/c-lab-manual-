@@ -1,5 +1,6 @@
 /*PRACTICAL NO.13
-AIM---Write a C program to input an integer number and check the last digit of number is even or odd.
+AIM---Write a C program to input an integer number and check the 
+last digit of number is even or odd.
 //file name ---even_odd.c*/
 #include <stdio.h>
 int main() 
